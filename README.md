@@ -28,5 +28,6 @@ To Run This Project Follow Below Steps:
 1. Install all the required setup
 2. Click on Foodie.sln to start the project
 3. Go to Foodie/Web.config file and change connectionStrings according to your sql server provider name
+4. Downloads all the tables aand store procedures from Tables and SP folders.
     
 
