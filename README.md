@@ -8,6 +8,7 @@ Developed an Online Food Ordering Website using ASP.NET, C#, and ADO.NET Entity 
 3. Html
 4. Css
 5. Bootstrap
+6. Javascript
 
 #Database used
 1. Ms Sql server
